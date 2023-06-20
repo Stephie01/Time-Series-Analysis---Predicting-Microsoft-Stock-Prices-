@@ -8,7 +8,8 @@ The stock market encompasses a series of markets and exchanges wherein the buyin
 Misinformation and obsolete data in making analysis in the money markets across the world has been and continue to be a problem. The required information to make informed decision, at times becomes too technical for some players in the stock market industry despite the industry players craving for information to accurately make predictions. Our client, a an asset management firm, needs proper analysis on prices on Microsoft's Stock to make informed investment decisions and optimize their trading strategies as they carry out their operations as well as forecast for strategic directions and decisions.
 
 # Objectives 
-* ```Develop a predictive model:``` To Build a robust time series model to generate accurate predictions of Microsoft's future stock prices.
+
+* To use predictive models  ```(ARIMA,LSTM, and FB Prophet)``` to forecast Microsoft's stock prices between (01/01/2010 - 06/21/2023)
 
 * ```Improve investment decision-making:``` To Provide reliable predictions to assist investors in making informed investment decisions, optimizing portfolio allocation, and managing risk.
 
@@ -16,11 +17,13 @@ Misinformation and obsolete data in making analysis in the money markets across 
 
 * ```Provide actionable insights:``` Extract meaningful insights from the analysis of historical stock market data and communicate them effectively to stakeholders.
 
-* ```Enhance decision support tools:``` To create user-friendly interfaces to facilitate easy access to predictions and insights
+* ```Enhance decision support tools:``` To create user-friendly interfaces to facilitate easy access to predictions and insights.
+
+
 
 # Data Understanding
 
-The dataset used in this project contains Microsoft stock market information from 01/01/2015 through 01/19/2021. It is acquired from Yahoo Finance and consists of several columns that provide valuable insights into the stock's performance and trading activity. The key columns in the dataset are as follows:
+The dataset used in this project contains Microsoft stock market information from 01/01/2010 through 06/21/2023. It is acquired from Yahoo Finance and consists of several columns that provide valuable insights into the stock's performance and trading activity. The key columns in the dataset are as follows:
 
 * ```Date:``` This column represents the date in the format yy-mm-dd, indicating the trading day for which the stock information is recorded.
 
@@ -43,6 +46,9 @@ The dataset covers a significant time period, allowing for the exploration of lo
 # Sucess Metrics 
 
 * ```Prediction Accuracy:``` The model's ability to accurately forecast Microsoft stock prices will be assessed using appropriate statistical measures such as mean absolute error (MAE), mean squared error (MSE), and root mean squared error (RMSE). The lower these values, the higher the prediction accuracy.
+
 * ```Stability and Robustness:``` The model should demonstrate stability and robustness by consistently providing accurate predictions across different time periods, including both normal and volatile market conditions.
+
 * ```Insights and Interpretability:``` The project's success also lies in the generation of meaningful insights and interpretations regarding the factors influencing 
+
 * ```Microsoft's stock prices.```` The ability to identify key patterns and relationships can contribute to a better understanding of the stock market dynamics and aid decision-making processes.
