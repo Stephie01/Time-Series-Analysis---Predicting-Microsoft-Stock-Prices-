@@ -61,3 +61,45 @@ The dataset covers a significant time period, allowing for the exploration of lo
 * ```Insights and Interpretability:``` The project's success also lies in the generation of meaningful insights and interpretations regarding the factors influencing 
 
 * ```Microsoft's stock prices.```` The ability to identify key patterns and relationships can contribute to a better understanding of the stock market dynamics and aid decision-making processes.
+
+# Results 
+
+
+# Conclusion
+
+The following were the key findings from the project:
+
+* The ```LSTM``` model performed better than the other models with a Mean Absolute Error of ```5.898```. The model was then used to forecast the stock prices for the next 2 years. The forecasted prices were used to optimize trading strategies using the Moving Averages Bouncing strategy. The project also involved the extraction of meaningful insights from the explaratory analysis. The insights include the following:
+
+* The stock price of Microsoft has been increasing over the years.
+
+* The average prices are concentarted between ```23.0``` and ```50.``` Investors can buy the stock at a lower price and sell it at a higher prices between this price ranges for long term investment.
+
+# Limitations
+
+* The dataset used for this project was limited to the Microsoft stock prices from 2010 to 2023. This limited the scope of the analysis to the Microsoft stock prices only. The analysis could have been more comprehensive if it included other companies in the same industry.
+
+# Recommendations
+
+* Consider incorporating advanced deep learning models as (```NLP```) that can provide insights from company financials, industry trends, news events, and market sentiment to make well-informed investment decisions. This factors change over time even at daily basis that will affect stationarity  within the data.
+
+* Regularly Monitor and Update Models: The stock market is dynamic, and market conditions can change rapidly. Continuously monitor the performance of our model and update with new data to ensure  effectiveness and relevance. Regularly reevaluate and refining strategies based on market conditions and new information.
+
+* Implement mitigation measures for short term investment to help avoid losses due to volatility and market fluctuations. This can be achieved by using the Moving Averages Bouncing strategy to optimize trading strategies.
+
+* For long term investment the fb prophet model is the best model to use because it has the lowest RMSE value of ```71.1654```. This model can be used to predict the stock prices for the next 2 years. The forecasted prices can be used to optimize trading strategies using the Moving Averages Bouncing strategy.
+
+# Project Dependancies
+* IDE - Google Colab/vscode/sublime text
+* Python Libraries - Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, fbprophet, statsmodels, tensorflow, pmdarima, plotly
+
+
+# Collaborators
+
+* Marwa Osman - marwaosman9975@gmail.com
+* Victoria Nabea - nabeamvictoria@gmail.com
+* Kennedy Juma - kenjuma96@gmail.com
+* Grace Nekesa - gracenekesa87@gmail.com
+* Paul Machau - ndungupaul16@gmail.com
+* Josiah Okumu - josiahopenji@gmail.com
+* Mugangasia Bravin - bravinmugangasia@gmail.com
