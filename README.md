@@ -65,6 +65,21 @@ The dataset covers a significant time period, allowing for the exploration of lo
 # Results 
 ![image](https://github.com/Mugangasia/Time-Series-Analysis---Predicting-Microsoft-Stock-Prices-/assets/98708792/4128a628-61a9-4d49-8181-e0b011ce1810)
 
+# Summary of Analysis
+
+$Inference$
+
+* The LSTM model has a training mean squared error ```(MSE)``` of ```3.4```, root mean squared error ```(RMSE)``` of ```1.86```, and mean absolute error (MAE) of ```1.484```. These metrics evaluate the performance of the model on the training set. The lower the values, the better the model's accuracy in predicting the target variable.
+
+* The model's testing phase results in a mean squared error (MSE) of ```59.239```, root mean squared error (RMSE) of ```7.697```, and mean absolute error (MAE) of ```5.898```. These metrics measure the model's performance on the test set, providing an indication of its generalization capabilities. Ideally, these values should be similar to the training metrics.
+
+* The relatively higher values for the testing metrics compared to the training metrics suggest that the model may be overfitting the training data. Overfitting occurs when the model learns specific patterns in the training set that do not generalize well to unseen data.
+
+* The plot of actual vs. predicted values for the training set shows that the model is able to capture the general trend and patterns in the data. However, it is unable to capture the extreme values and fluctuations in the data, resulting in a significant deviation from the actual values.
+
+Overall, the model exhibits decent performance on the training set, but its performance decreases when applied to the test set. Further analysis and potential adjustments to the model may be necessary to improve its generalization capabilities.
+
+
 
 # Conclusion
 
