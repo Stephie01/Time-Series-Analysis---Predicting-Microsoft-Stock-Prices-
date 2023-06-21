@@ -54,15 +54,16 @@ The dataset covers a significant time period, allowing for the exploration of lo
 
 # Sucess Metrics 
 
-* ```Prediction Accuracy:``` The model's ability to accurately forecast Microsoft stock prices will be assessed using appropriate statistical measures such as mean absolute error (MAE), mean squared error (MSE), and root mean squared error (RMSE). The lower these values, the higher the prediction accuracy.
+* ``` Prediction Accuracy:``` The model's ability to accurately forecast Microsoft stock prices will be assessed using appropriate statistical measures such as mean absolute error (MAE), mean squared error (MSE), and root mean squared error (RMSE). The lower these values, the higher the prediction accuracy.
 
-* ```Stability and Robustness:``` The model should demonstrate stability and robustness by consistently providing accurate predictions across different time periods, including both normal and volatile market conditions.
+* ``` Stability and Robustness:``` The model should demonstrate stability and robustness by consistently providing accurate predictions across different time periods, including both normal and volatile market conditions.
 
-* ```Insights and Interpretability:``` The project's success also lies in the generation of meaningful insights and interpretations regarding the factors influencing 
+* ``` Insights and Interpretability:``` The project's success also lies in the generation of meaningful insights and interpretations regarding the factors influencing 
 
 * ```Microsoft's stock prices.```` The ability to identify key patterns and relationships can contribute to a better understanding of the stock market dynamics and aid decision-making processes.
 
 # Results 
+![image](https://github.com/Mugangasia/Time-Series-Analysis---Predicting-Microsoft-Stock-Prices-/assets/98708792/4128a628-61a9-4d49-8181-e0b011ce1810)
 
 
 # Conclusion
@@ -73,7 +74,7 @@ The following were the key findings from the project:
 
 * The stock price of Microsoft has been increasing over the years.
 
-* The average prices are concentarted between ```23.0``` and ```50.``` Investors can buy the stock at a lower price and sell it at a higher prices between this price ranges for long term investment.
+* The average prices are concentrated between ```23.0``` and ```50.``` Investors can buy the stock at a lower price and sell it at a higher price between this price ranges for long term investment.
 
 # Limitations
 
