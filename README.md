@@ -60,7 +60,7 @@ The dataset covers a significant time period, allowing for the exploration of lo
 
 * ``` Insights and Interpretability:``` The project's success also lies in the generation of meaningful insights and interpretations regarding the factors influencing 
 
-* ```Microsoft's stock prices.```` The ability to identify key patterns and relationships can contribute to a better understanding of the stock market dynamics and aid decision-making processes.
+* ```Microsoft's stock prices.``` The ability to identify key patterns and relationships can contribute to a better understanding of the stock market dynamics and aid decision-making processes.
 
 # Results 
 ![image](https://github.com/Mugangasia/Time-Series-Analysis---Predicting-Microsoft-Stock-Prices-/assets/98708792/4128a628-61a9-4d49-8181-e0b011ce1810)
