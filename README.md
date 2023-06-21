@@ -18,11 +18,11 @@ Misinformation and obsolete data in making analysis in the money markets across 
 
 # Objectives 
 
-* To use predictive models  ```(ARIMA,LSTM, and FB Prophet)``` to forecast Microsoft's stock prices between (01/01/2010 - 06/21/2023)
+* To use predictive models  ```(ARIMA,LSTM, and FB Prophet)``` to forecast Microsoft's stock prices between (01/01/2010 - 06/21/2023). Our desired outcome is to have a model with a Mean Absolute Error of less than ```10```.
 
-* ```Improve investment decision-making:``` To Provide reliable predictions to assist investors in making informed investment decisions, optimizing portfolio allocation, and managing risk.
+* Compare the performance of the predictive model against a baseline model(ARIMA), Mean Absolute Error ```MAE```, Root Mean Squared Error ```(RMSE)```, and Mean Absolute Percentage Error ```(MAPE)```. Aim for a significant improvement over the baseline model.
 
-* ```Optimize trading strategies:``` To Enable traders to enhance their trading strategies by incorporating the predicted stock prices into their decision-making processes.
+* Optimize trading strategies by incorporating predicted stock prices, specifically using the Moving Averages Bouncing strategy.
 
 * ```Provide actionable insights:``` Extract meaningful insights from the analysis of historical stock market data and communicate them effectively to stakeholders.
 
