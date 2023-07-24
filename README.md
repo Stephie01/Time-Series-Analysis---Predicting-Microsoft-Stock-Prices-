@@ -110,12 +110,4 @@ The following were the key findings from the project:
 * Python Libraries - Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, fbprophet, statsmodels, tensorflow, pmdarima, plotly
 
 
-# Collaborators
 
-* Marwa Osman - marwaosman9975@gmail.com
-* Victoria Nabea - nabeamvictoria@gmail.com
-* Kennedy Juma - kenjuma96@gmail.com
-* Grace Nekesa - gracenekesa87@gmail.com
-* Paul Machau - ndungupaul16@gmail.com
-* Josiah Okumu - josiahopenji@gmail.com
-* Mugangasia Bravin - bravinmugangasia@gmail.com
